@@ -1,3 +1,4 @@
+# Modified from https://gist.github.com/JoanTheSpark/e3fab5a8af44f7f8779c
 import sys, os
 import shutil
 import math
