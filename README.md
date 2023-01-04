@@ -5,3 +5,7 @@ Trying to create microlens arrays on the Voltera V-One platform
 ```
 $ python spiral.py > lenses.txt
 ```
+then
+```
+$ python change_project.py
+```
